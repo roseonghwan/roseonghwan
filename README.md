@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&text=Welcome!&desc=roseonghwan's%20Github%20Profile&descAlign=65)
 ### Contact with me! 👋
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nsh1998@kookmin.ac.kr)](mailto:nsh1998@kookmin.ac.kr)  <a href="https://like-sonny.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&link=https://like-sonny.tistory.com/"/></a>
+<a href="https://like-sonny.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&link=https://like-sonny.tistory.com/"/></a>
 <hr>
 
 ### Tech I've Used 💻
